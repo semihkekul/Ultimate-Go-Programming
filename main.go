@@ -2,5 +2,7 @@ package main
 
 func main() {
 	// variables()
-	structTypes()
+	//structTypes()
+	//pointersPart1()
+	pointersPart2()
 }
