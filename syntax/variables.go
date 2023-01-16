@@ -1,8 +1,8 @@
-package main
+package syntax
 
 import "fmt"
 
-func variables() {
+func Variables() {
 	// zero value init !!!
 	var a int
 	var b string

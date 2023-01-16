@@ -1,6 +1,6 @@
-package main
+package syntax
 
-func pointersPart1() {
+func PointersPassByValue() {
 	count := 10
 
 	println("count:\t Value of [", count, "]\tAddr of[", &count, "]")

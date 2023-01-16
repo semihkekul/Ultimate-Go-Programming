@@ -1,3 +1,3 @@
-module ultimate_go.com/main
+module main
 
 go 1.19

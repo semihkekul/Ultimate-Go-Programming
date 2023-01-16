@@ -1,6 +1,6 @@
-package main
+package syntax
 
-func pointersPart2() {
+func PointersSharingData() {
 	count := 33
 
 	println("count:\t Value of [", count, "]\tAddr of[", &count, "]")

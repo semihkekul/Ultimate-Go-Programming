@@ -1,4 +1,4 @@
-package main
+package syntax
 
 import "fmt"
 
@@ -20,7 +20,7 @@ type alice struct {
 	pi      float32
 }
 
-func structTypes() {
+func StructTypes() {
 	var e1 example
 	fmt.Printf("%+v\n", e1)
 
